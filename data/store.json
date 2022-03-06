@@ -1,0 +1,16 @@
+[
+  {
+		"title": "Acer",
+		"price": "1200",
+		"img": "https://m.media-amazon.com/images/I/71233PTgAjL._AC_SL1500_.jpg",
+		"descr": "Acer Aspire 5 A515-56-36UT Slim Laptop | 15.6\" Full HD Display | 11th Gen Intel Core i3-1115G4 Processor | 4GB DDR4 | 128GB NVMe SSD | WiFi 6 ",
+		"id": "cbbfc036-d3b6-432d-80d2-ee07fa80f23a"
+	},
+	{
+		"title": "Acer Swift 3",
+		"price": "649",
+		"img": "https://m.media-amazon.com/images/I/71zRcqRQGOL._AC_SL1500_.jpg",
+		"descr": "Acer Swift 3 Thin & Light Laptop | 14\" Full HD IPS 100% sRGB Display | AMD Ryzen 7 5700U Octa-Core Processor | 8GB LPDDR4X | 512GB NVMe SSD | WiFi 6 | Backlit KB | FPR",
+		"id": "39764f6a-73bd-472d-ae95-7b0927c2c8b2"
+	}
+]

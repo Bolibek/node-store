@@ -1,0 +1,128 @@
+[
+	{
+		"title": "MSI GP76 Leopard",
+		"price": "1849",
+		"img": "https://m.media-amazon.com/images/I/61b6HNXTcNS._AC_SL1200_.jpg",
+		"descr": "Gaming Laptop: 17.3\" 240Hz IPS-Level Display, Intel Core i7-11800H, NVIDIA GeForce RTX 3070, 16GB, 1TB SSD, Win10, Black (11UG-076)",
+		"id": "39764f6a-73bd-472d-ae95-7b0927c2c8b2"
+	},
+	{
+		"title": "MSI GS76 Stealth",
+		"price": "3249",
+		"img": "https://m.media-amazon.com/images/I/71VpMMo6IjL._AC_SL1500_.jpg",
+		"descr": "\r\nMSI GS76 Stealth Gaming Laptop: 17.3\" 4K Display, Intel Core i9-11900H, NVIDIA GeForce RTX 3080, 64GB, 2TB SSD, Thunderbolt 4, WiFi 6, Win10",
+		"id": "dbebfd63-cd91-4eec-a9e8-f07483703185"
+	},
+	{
+		"title": "Acer Swift 3",
+		"price": "649",
+		"img": "https://m.media-amazon.com/images/I/71zRcqRQGOL._AC_SL1500_.jpg",
+		"descr": "Acer Swift 3 Thin & Light Laptop | 14\" Full HD IPS 100% sRGB Display | AMD Ryzen 7 5700U Octa-Core Processor | 8GB LPDDR4X | 512GB NVMe SSD | WiFi 6 | Backlit KB | FPR",
+		"id": "39764f6a-73bd-472d-ae95-7b0927c2c8b2"
+	},
+	{
+		"title": "Apple MacBook Pro",
+		"price": "1249",
+		"img": "https://m.media-amazon.com/images/I/71gD8WdSlaL._AC_SL1500_.jpg",
+		"descr": "2020 Apple MacBook Pro with Apple M1 Chip (13-inch, 8GB RAM, 256GB SSD Storage) - Silver\r\nCapacity:256GB\r\nColor:Silver",
+		"id": "7a76b090-5801-450d-b28e-e9887fe285c6"
+	},
+	{
+		"title": "MSI Creator 15 Professional Laptop",
+		"price": "2349",
+		"img": "https://m.media-amazon.com/images/I/81rGmYRtz2L._AC_SL1500_.jpg",
+		"descr": "MSI Creator 15 Professional Laptop: 15.6\" UHD OLED 4K DCI-P3 100% Display, Intel Core i7-11800H, NVIDIA GeForce RTX 3080, 16GB RAM, 1TB NVME SSD",
+		"id": "4c6aa486-f2fa-4522-876e-cfdd46cb7542"
+	},
+	{
+		"title": "2021 Apple MacBook Pro",
+		"price": "2420",
+		"img": "https://m.media-amazon.com/images/I/61vFO3R5UNL._AC_SL1500_.jpg",
+		"descr": "2021 Apple MacBook Pro (14-inch, Apple M1 Pro chip with 10‑core CPU and 16‑core GPU, 16GB RAM, 1TB SSD) - Space Gray\r\nCapacity:1 TB\r\nColor:Space Gray",
+		"id": "bd6740c2-cb35-46ef-9169-88351e301769"
+	},
+	{
+		"title": "Acer Nitro 5",
+		"price": "1289",
+		"img": "https://m.media-amazon.com/images/I/81m-j0iRmtL._AC_SL1500_.jpg",
+		"descr": "\r\nAcer Nitro 5 AN515-45-R92M Gaming Laptop, AMD Ryzen 7 5800H (8-Core) | NVIDIA GeForce RTX 3060 Laptop GPU |15.6\" FHD 144Hz IPS Display | 16GB DDR4",
+		"id": "9736608e-b236-4ead-aadc-894dfc2d8307"
+	},
+	{
+		"title": "Apple MacBook Air",
+		"price": "1099",
+		"img": "https://m.media-amazon.com/images/I/71k3fJh5EwL._AC_SL1500_.jpg",
+		"descr": "\r\nApple MacBook Air (13-inch Retina Display, 8GB RAM, 512GB SSD Storage) - Space Gray (Previous Model)\r\nCapacity:512GB\r\nColor:Space Gray",
+		"id": "d39b6912-dda0-447b-b96b-65dcff8be086"
+	},
+	{
+		"title": "MSI Summit E13 Flip EVO Professional Laptop",
+		"price": "1603",
+		"img": "https://m.media-amazon.com/images/I/81T1EBv8pfL._AC_SL1500_.jpg",
+		"descr": "SI Summit E13 Flip EVO Professional Laptop: 13\" IPS-Level Touch Screen, Intel core i7-1185G7, Iris Xe, 32GB RAM, 1TB NVMe SSD, Win10 PRO, Pure White...\r\nColor:Pure White\r\nStyle:i7-1185G7/Iris Xe/1TB SSD",
+		"id": "daacb149-f5b7-4ac7-8d4b-61a7b5b47113"
+	},
+	{
+		"title": "Acer",
+		"price": "1200",
+		"img": "https://m.media-amazon.com/images/I/71233PTgAjL._AC_SL1500_.jpg",
+		"descr": "Acer Aspire 5 A515-56-36UT Slim Laptop | 15.6\" Full HD Display | 11th Gen Intel Core i3-1115G4 Processor | 4GB DDR4 | 128GB NVMe SSD | WiFi 6 ",
+		"id": "cbbfc036-d3b6-432d-80d2-ee07fa80f23a"
+	},
+	{
+		"title": "MSI GS76 Stealth",
+		"price": "3249",
+		"img": "https://m.media-amazon.com/images/I/71VpMMo6IjL._AC_SL1500_.jpg",
+		"descr": "\r\nMSI GS76 Stealth Gaming Laptop: 17.3\" 4K Display, Intel Core i9-11900H, NVIDIA GeForce RTX 3080, 64GB, 2TB SSD, Thunderbolt 4, WiFi 6, Win10",
+		"id": "dbebfd63-cd91-4eec-a9e8-f07483703185"
+	},
+	{
+		"title": "Acer Swift 3",
+		"price": "649",
+		"img": "https://m.media-amazon.com/images/I/71zRcqRQGOL._AC_SL1500_.jpg",
+		"descr": "Acer Swift 3 Thin & Light Laptop | 14\" Full HD IPS 100% sRGB Display | AMD Ryzen 7 5700U Octa-Core Processor | 8GB LPDDR4X | 512GB NVMe SSD | WiFi 6 | Backlit KB | FPR",
+		"id": "39764f6a-73bd-472d-ae95-7b0927c2c8b2"
+	},
+	{
+		"title": "Apple MacBook Pro",
+		"price": "1249",
+		"img": "https://m.media-amazon.com/images/I/71gD8WdSlaL._AC_SL1500_.jpg",
+		"descr": "2020 Apple MacBook Pro with Apple M1 Chip (13-inch, 8GB RAM, 256GB SSD Storage) - Silver\r\nCapacity:256GB\r\nColor:Silver",
+		"id": "7a76b090-5801-450d-b28e-e9887fe285c6"
+	},
+	{
+		"title": "MSI Creator 15 Professional Laptop",
+		"price": "2349",
+		"img": "https://m.media-amazon.com/images/I/81rGmYRtz2L._AC_SL1500_.jpg",
+		"descr": "MSI Creator 15 Professional Laptop: 15.6\" UHD OLED 4K DCI-P3 100% Display, Intel Core i7-11800H, NVIDIA GeForce RTX 3080, 16GB RAM, 1TB NVME SSD",
+		"id": "4c6aa486-f2fa-4522-876e-cfdd46cb7542"
+	},
+	{
+		"title": "2021 Apple MacBook Pro",
+		"price": "2420",
+		"img": "https://m.media-amazon.com/images/I/61vFO3R5UNL._AC_SL1500_.jpg",
+		"descr": "2021 Apple MacBook Pro (14-inch, Apple M1 Pro chip with 10‑core CPU and 16‑core GPU, 16GB RAM, 1TB SSD) - Space Gray\r\nCapacity:1 TB\r\nColor:Space Gray",
+		"id": "bd6740c2-cb35-46ef-9169-88351e301769"
+	},
+	{
+		"title": "Acer Nitro 5",
+		"price": "1289",
+		"img": "https://m.media-amazon.com/images/I/81m-j0iRmtL._AC_SL1500_.jpg",
+		"descr": "\r\nAcer Nitro 5 AN515-45-R92M Gaming Laptop, AMD Ryzen 7 5800H (8-Core) | NVIDIA GeForce RTX 3060 Laptop GPU |15.6\" FHD 144Hz IPS Display | 16GB DDR4",
+		"id": "9736608e-b236-4ead-aadc-894dfc2d8307"
+	},
+	{
+		"title": "Apple MacBook Air",
+		"price": "1099",
+		"img": "https://m.media-amazon.com/images/I/71k3fJh5EwL._AC_SL1500_.jpg",
+		"descr": "\r\nApple MacBook Air (13-inch Retina Display, 8GB RAM, 512GB SSD Storage) - Space Gray (Previous Model)\r\nCapacity:512GB\r\nColor:Space Gray",
+		"id": "d39b6912-dda0-447b-b96b-65dcff8be086"
+	},
+	{
+		"title": "MSI Summit E13 Flip EVO Professional Laptop",
+		"price": "1603",
+		"img": "https://m.media-amazon.com/images/I/81T1EBv8pfL._AC_SL1500_.jpg",
+		"descr": "SI Summit E13 Flip EVO Professional Laptop: 13\" IPS-Level Touch Screen, Intel core i7-1185G7, Iris Xe, 32GB RAM, 1TB NVMe SSD, Win10 PRO, Pure White...\r\nColor:Pure White\r\nStyle:i7-1185G7/Iris Xe/1TB SSD",
+		"id": "daacb149-f5b7-4ac7-8d4b-61a7b5b47113"
+	}
+]
