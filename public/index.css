@@ -1,6 +1,15 @@
 .nav-wrapper {
   padding: 0 2rem;
 }
+
+.navbar {
+  background-color: #232f3e;
+}
+
+.act {
+  background-color: #131921;
+}
+
 .z-depth-4 {
   padding: 2rem;
   border-bottom-right-radius: 3rem;
@@ -59,10 +68,10 @@
 .delete-btn {
   margin-top: 20px;
   margin-left: 15%;
-  
 }
 
-.red, .red:hover{
+.red,
+.red:hover {
   border-bottom-right-radius: 1rem;
   border-top-left-radius: 1rem;
   box-shadow: 5px 5px 5px rgba(12, 12, 12, 0.5);
@@ -82,9 +91,8 @@
   color: #fff;
 }
 
-
-.add-alert{
-  width: 70%; 
+.add-alert {
+  width: 70%;
   margin: auto;
   border-bottom-right-radius: 1rem;
   border-top-left-radius: 1rem;
@@ -134,13 +142,9 @@
   margin-top: -50px;
 }
 
-
 /* =================================================================*/
 
-
-
-
-.avatar{
+.avatar {
   max-width: 250px;
   height: 250px;
   /* border-radius: 50%; */
@@ -171,7 +175,6 @@
 }
 
 .gradient-border {
-  
   width: 100%;
   height: 100%;
   margin: 0;
@@ -208,10 +211,9 @@ ul {
   margin: auto;
 } */
 
-
-#title {
+/* #title {
   padding-left: 4.5rem;
-}
+} */
 
 #age {
   padding-left: 5rem;
@@ -232,7 +234,7 @@ ul {
   box-shadow: 12px 12px 5px 1px #726e60;
 }
 
-.accent-4{
+.accent-4 {
   display: flex;
   margin: 0 auto;
 }
@@ -248,8 +250,6 @@ ul {
     font-size: 0.85rem;
   }
 }
-
-
 
 main {
   background-color: white;
@@ -436,4 +436,11 @@ main img:hover {
 
 .img-tran:hover img {
   opacity: 0.5;
+}
+
+.add {
+  /* display: flex;
+  margin: auto; */
+  /* width: 50%; */
+  padding: 0;
 }
